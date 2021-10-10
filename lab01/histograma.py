@@ -1,3 +1,5 @@
+# Giovani G Marciniak GRR20182981
+
 import cv2 as cv
 
 def main():
