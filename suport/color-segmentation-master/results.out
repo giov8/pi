@@ -1,0 +1,10 @@
+min H = 22, min S = 211, min V = 92; max H = 22, max S = 211, max V = 92
+min H = 20, min S = 132, min V = 87; max H = 22, max S = 138, max V = 88
+min H = 17, min S = 203, min V = 67; max H = 18, max S = 218, max V = 70
+min H = 26, min S = 64, min V = 99; max H = 28, max S = 102, max V = 100
+min H = 23, min S = 193, min V = 98; max H = 24, max S = 206, max V = 100
+min H = 20, min S = 184, min V = 82; max H = 21, max S = 190, max V = 84
+min H = 22, min S = 199, min V = 98; max H = 24, max S = 208, max V = 100
+
+(17, 64, 67)
+(28, 218, 100)
