@@ -1,0 +1,24 @@
+==== LABORATÓRIO 3 - PROCESSAMENTO DE IMAGENS ====
+Implementação em Python do laboratório "Filtragem de Imagens"
+
+Alunos: Giovani Gurkevicz Marciniak (GRR20182981)
+Data: 23/10/2021
+
+==== REQUISITOS ====
+- Python3
+- OpenCV
+- Numpy
+
+==== PARA EXECUTAR ====
+Execute o seguinte comando no terminal:
+$ python3 filtro.py <imagem original> <nível de ruído> <id_filtro> <nome da imagem de saída>
+
+
+==== FILTROS DISPONÍVEIS ====
+Os seguintes filtros estão implementados no programa:
+
+ID | Filtro
+0    Media
+1    Mediana
+3    Empilhamento
+4    Gaussiano
